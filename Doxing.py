@@ -23,15 +23,16 @@ def menu():
 					  \033[1;31mHacking Live\033[1;m
 			  \033[1;34mHecho por:\033[1;m Victor Bancayan & Kelvin Parra
   				       \033[1;35mVersion: Beta 1.0
+				       \033[1;31m Modificado APPIF Para Panamá\033[1;m
   				      
 """
 	print '''
-\033[1;32m 1. Pipl 	 \033[1;32m 7. Sis            \033[1;32m 13. Censo           \033[1;32m19. Sanciones   \033[1;32m 25. Direccion
-\033[1;32m 2. Dni	 	 \033[1;32m 8. FecNac         \033[1;32m 14. EstadoDoc    \033[1;32m   20. Sat 	 \033[1;32m 26. SkypeIp
-\033[1;32m 3. EstCiv    	 \033[1;32m 9. Credito       \033[1;32m  15. BuscarDatos  \033[1;32m   21. Runt  	 \033[1;32m 27. Multas
-\033[1;32m 4. Operdora    \033[1;32m 10. Sentinel       \033[1;32m 16. Certificados   \033[1;32m 22. Libreta \033[1;32m     28. Username
+\033[1;32m 1. Pipl 	 \033[1;32m 7. Registro            \033[1;32m 13. Censo           \033[1;32m19. Sanciones   \033[1;32m 25. Direccion
+\033[1;32m 2. Verificate	 	 \033[1;32m 8. Aviso Operaciones         \033[1;32m 14. Ubicar Vechiculo    \033[1;32m   20. Sat 	 \033[1;32m 26. SkypeIp
+\033[1;32m 3. Registro Electoral    	 \033[1;32m 9. Datos Abiertos       \033[1;32m  15. BuscarDatos  \033[1;32m   21. Runt  	 \033[1;32m 27. Multas
+\033[1;32m 4. IMEI    \033[1;32m 10. Cepadem       \033[1;32m 16. Certificados   \033[1;32m 22. Libreta \033[1;32m     28. Username
 \033[1;32m 5. Ruc       	\033[1;32m 11. ExifData       \033[1;32m 17. Licencia  	 \033[1;32m23. StalkScan  \033[1;32m  29. About
-\033[1;32m 6. Tinfoleak   \033[1;32m 12. Acreditacion   \033[1;32m 18. Curp          \033[1;32m  24. Colegiados  \033[1;32m 30. Exit
+\033[1;32m 6. Tinfoleak   \033[1;32m 12. SPA   \033[1;32m 18. Curp          \033[1;32m  24. Colegiados  \033[1;32m 30. Exit
 
 		'''
 	d = raw_input("\033[1;30m Doxing > ")
@@ -41,43 +42,43 @@ def menu():
 
 		menu()
 	elif d == "2":
-		webbrowser.open('http://www.consultadni.info/')
+		webbrowser.open('http://verificate.pa/')
 		menu()
 	elif d == "3":
-		webbrowser.open('https://cel.reniec.gob.pe/valreg/valreg.do')
+		webbrowser.open('http://www.rere.pa/ReReApp/ConsultarDireccionActual.aspx')
 		menu()
 	elif d == "4":
-		webbrowser.open('http://www.deperu.com/celulares/')
+		webbrowser.open('https://www.doctorsim.com/pa-es/chequear-celular-imei/')
 		menu()
 	elif d == "5":
-		webbrowser.open('http://www.sunat.gob.pe/cl-ti-itmrconsruc/jcrS00Alias')
+		webbrowser.open('https://etax2.mef.gob.pa/etax2web/Login.aspx')
 		menu()
 	elif d == "6":
 		webbrowser.open('https://tinfoleak.com/')
 		menu()
 	elif d == "7":
-		webbrowser.open('http://app.sis.gob.pe/SisConsultaEnLinea/Consulta/frmConsultaEnLinea.aspx')
+		webbrowser.open('https://registro-publico.gob.pa/')
 		menu()
 	elif d == "8":
-		webbrowser.open('https://www.reniec.gob.pe/concer/concer.do')
+		webbrowser.open('https://panamaemprende.gob.pa/login')
 		menu()
 	elif d == "9":
-		webbrowser.open('https://www.icetex.gov.co/portalacces/tradicional/solicitar/cptConsultarEstado.asp?origen=portal')
+		webbrowser.open('https://www.datosabiertos.gob.pa/')
 		menu()
 	elif d == "10":
-		webbrowser.open('https://misentinel.sentinelperu.com/misentinel/misentinel.aspx')
+		webbrowser.open('https://formulario-cepadem.mef.gob.pa/register')
 		menu()
 	elif d == "11":
 		webbrowser.open('http://exifdata.com')
 		menu()
 	elif d == "12":
-		webbrowser.open('http://ww4.essalud.gob.pe:7777/acredita/index.jsp')
+		webbrowser.open('https://spa.sistemapenalacusatorio.gob.pa/')
 		menu()
 	elif d == "13":
 		webbrowser.open('https://wsp.registraduria.gov.co/censo/_censoResultado.php')
 		menu()
 	elif d == "14":
-		webbrowser.open('https://wsp.registraduria.gov.co/estadodocs/')
+		webbrowser.open('https://311web.innovacion.gob.pa/Pages/VehicleLicenseSearch.aspx')
 		menu()
 	elif d == "15":
 		webbrowser.open('http://buscardatos.com/')
@@ -86,7 +87,7 @@ def menu():
 		webbrowser.open('http://certificados.sena.edu.co/')
 		menu()
 	elif d == "17":
-		webbrowser.open('http://web.mintransporte.gov.co/Consultas/transito/Consulta23122010.htm')
+		webbrowser.open('http://www.licencia.com.pa/historial/historial.jsf')
 		menu()
 	elif d == "18":
 		webbrowser.open('https://consultas.curp.gob.mx/')
