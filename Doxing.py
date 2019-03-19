@@ -25,7 +25,7 @@ def menu():
 					  \033[1;31mHacking Live\033[1;m
 			  \033[1;34mHecho por:\033[1;m Victor Bancayan & Kelvin Parra
   				       \033[1;35mVersion: Beta 1.0
-				       \033[1;31m Modificado Dojo Panamá\033[1;m
+				       \033[1;31m Modificado Dojo Panama\033[1;m
   				      
 """
 	print '''
