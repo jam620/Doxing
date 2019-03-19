@@ -1,4 +1,6 @@
 #coded by Jey Zeta
+#Usar python 2.7
+# coding: utf8
 import sys, os, webbrowser, platform, subprocess
 
 import webbrowser
@@ -27,12 +29,12 @@ def menu():
   				      
 """
 	print '''
-\033[1;32m 1. Pipl 	 \033[1;32m 7. Registro            \033[1;32m 13. Censo           \033[1;32m19. Sanciones   \033[1;32m 25. Direccion
-\033[1;32m 2. Verificate	 	 \033[1;32m 8. Aviso Operaciones         \033[1;32m 14. Ubicar Vechiculo    \033[1;32m   20. Sat 	 \033[1;32m 26. SkypeIp
-\033[1;32m 3. Registro Electoral    	 \033[1;32m 9. Datos Abiertos       \033[1;32m  15. BuscarDatos  \033[1;32m   21. Runt  	 \033[1;32m 27. Multas
-\033[1;32m 4. IMEI    \033[1;32m 10. Cepadem       \033[1;32m 16. Certificados   \033[1;32m 22. Libreta \033[1;32m     28. Username
-\033[1;32m 5. Ruc       	\033[1;32m 11. ExifData       \033[1;32m 17. Licencia  	 \033[1;32m23. StalkScan  \033[1;32m  29. About
-\033[1;32m 6. Tinfoleak   \033[1;32m 12. SPA   \033[1;32m 18. Curp          \033[1;32m  24. Colegiados  \033[1;32m 30. Exit
+\033[1;32m 1. Pipl 	 \033[1;32m 7. Registro            \033[1;32m 13. Censo           \033[1;32m19. Fake Name   \033[1;32m 25. NICpa
+\033[1;32m 2. Verificate	 	 \033[1;32m 8. Aviso Operaciones         \033[1;32m 14. Ubicar Vechiculo    \033[1;32m   20. Wayback Machine 	 \033[1;32m 26. SkypeIp
+\033[1;32m 3. Registro Electoral    	 \033[1;32m 9. Datos Abiertos       \033[1;32m  15. TarjetaPropiedad Vehicular  \033[1;32m   21. Who is  	 \033[1;32m 27. Pwned
+\033[1;32m 4. IMEI    \033[1;32m 10. Cepadem       \033[1;32m 16. Reverse IP   \033[1;32m 22. DNS \033[1;32m     28. Username
+\033[1;32m 5. RUC       	\033[1;32m 11. ExifData       \033[1;32m 17. Licencia  	 \033[1;32m23. StalkScan  \033[1;32m  29. Dojo
+\033[1;32m 6. Tinfoleak   \033[1;32m 12. SPA   \033[1;32m 18. Avatar          \033[1;32m  24. Findsubdomain  \033[1;32m 30. Exit
 
 		'''
 	d = raw_input("\033[1;30m Doxing > ")
@@ -75,55 +77,55 @@ def menu():
 		webbrowser.open('https://spa.sistemapenalacusatorio.gob.pa/')
 		menu()
 	elif d == "13":
-		webbrowser.open('https://wsp.registraduria.gov.co/censo/_censoResultado.php')
+		webbrowser.open('http://www.contraloria.gob.pa/INEC/Sistema/Default.aspx')
 		menu()
 	elif d == "14":
 		webbrowser.open('https://311web.innovacion.gob.pa/Pages/VehicleLicenseSearch.aspx')
 		menu()
 	elif d == "15":
-		webbrowser.open('http://buscardatos.com/')
+		webbrowser.open('https://www.tarjeta.com.pa/consultatpv/')
 		menu()
 	elif d == "16":
-		webbrowser.open('http://certificados.sena.edu.co/')
+		webbrowser.open('https://viewdns.info/reverseip/')
 		menu()
 	elif d == "17":
 		webbrowser.open('http://www.licencia.com.pa/historial/historial.jsf')
 		menu()
 	elif d == "18":
-		webbrowser.open('https://consultas.curp.gob.mx/')
+		webbrowser.open('https://faceapp.com/')
 		menu()
 	elif d == "19":
-		webbrowser.open('https://consulta.simit.org.co/Simit/index.html')
+		webbrowser.open('https://www.fakenamegenerator.com/')
 		menu()
 	elif d == "20":
-		webbrowser.open('https://www.sat.gob.pe/Websitev9')
+		webbrowser.open('https://archive.org/web/')
 		menu()
 	elif d == "21":
-		webbrowser.open('https://www.runt.com.co/consultaCiudadana/#/consultaPersona')
+		webbrowser.open('http://whois.domaintools.com/')
 		menu()
 	elif d == "22":
-		webbrowser.open('https://www.libretamilitar.mil.co/Modules/Consult/MilitarySituation')
+		webbrowser.open('https://dnsdumpster.com/')
 		menu()
 	elif d == "23":
 		webbrowser.open('https://stalkscan.com/')
 		menu()
 	elif d == "24":
-		webbrowser.open('http://www.cipica.com/buscolegiado/buscolegiado.php')
+		webbrowser.open('https://findsubdomains.com/')
 		menu()
 	elif d == "25":
-		webbrowser.open('http://www.midis.gob.pe/padron/')
+		webbrowser.open('http://www.nic.pa/')
 		menu()
 	elif d == "26":
 		webbrowser.open('http://mostwantedhf.info/')
 		menu()
 	elif d == "27":
-		webbrowser.open('http://aplicaciones007.jne.gob.pe/multas/')
+		webbrowser.open('https://haveibeenpwned.com/')
 		menu()
 	elif d == "28":
 		webbrowser.open('https://namechk.com/')
 		menu()
 	elif d == "29":
-		webbrowser.open('https://www.facebook.com/HackingEnVivo/')
+		webbrowser.open('https://comunidaddojo.online/')
 		menu()
 	elif d == "30":
 		sys.exit()
