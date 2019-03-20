@@ -3,16 +3,16 @@
 # MODIFICACIONES
 Se modifico el código original con información de Panamá:
 * **Verificate:** *información electoral sobre mesas de votación*
-* **Registro E:** *información de registro electoral*
+* **RE:** *información de registro electoral*
 * **IMEI:** *verificar estado de un celular*
 * **RUC:** *información de la DGI*
 * **Registro:** *registro público de Panamá*
-* **Aviso:** *Solicitud de Panamá Emprende*
+* **Aviso O:** *Solicitud de Panamá Emprende*
 * **Datos Abiertos:** *datasets de diversas instituciones en Panamá*
 * **CEPADEM:** *información para solicitud de pago de decimos atrasados*
 * **SPA:** *información de casos del Sistema Penal Acusatorio*
 * **Censo:** *datos estadisticos de la República de Panamá*
-* **Ubicar Vehiculo:** *rastrear un vehiculo remolcado*
+* **U. Vehiculo:** *rastrear un vehiculo remolcado*
 * **Tarjeta PV:** *Tarjeta de Propiedad Vehicular* 
 * **NICpa:** *información de dominios .gob*
 * **Pwned:** *información de cuentas comprometidas*
