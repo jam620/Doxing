@@ -1,5 +1,27 @@
 <img src="https://2.bp.blogspot.com/-NpCmuA8pBDE/WgK6SxomgqI/AAAAAAAAAT8/PZawxwldoDwS2596xU7HGQksCZytSh48gCLcBGAs/s1600/doxing.PNG" title="Doxing">
 
+# MODIFICACIONES
+Se modifico el código original con información de Panamá:
+2. **Verificate:** *información electoral sobre mesas de votación*
+3. **Registro E:** *información de registro electoral*
+4. **IMEI:** *verificar estado de un celular*
+5.**RUC:** *información de la DGI*
+7. **Registro:** *registro público de Panamá*
+8. **Aviso:** *Solicitud de Panamá Emprende*
+9. **Datos Abiertos:** *datasets de diversas instituciones en Panamá*
+10. **CEPADEM:** *información para solicitud de pago de decimos atrasados*
+12. **SPA:** *información de casos del Sistema Penal Acusatorio*
+13. **Censo:** *datos estadisticos de la República de Panamá*
+14. **Ubicar Vehiculo:** *rastrear un vehiculo remolcado*
+15. **Tarjeta PV:** *Tarjeta de Propiedad Vehicular* 
+25. **NICpa:** *información de dominios .gob*
+27. **Pwned:** *información de cuentas comprometidas*
+
+
+
+
+
+
 # ABOUT.
 Doxing, written in Python to search your goal, based on a simple and complete structure for anyone to use, modify and share, the goal is to find information in the easiest way of your victim, stalker, etc. Whose technique is called doxing, espionage and information gathering. The current version is completely stable. Automate the search since each option gives you a website so you can search for people's data.
 
