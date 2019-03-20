@@ -28,7 +28,7 @@ def menu():
 				       \033[1;31m Modificado Dojo Panama\033[1;m
   				      
 """
-	print '''
+	print """
 \033[1;32m 1. Pipl	\033[1;32m 7. Registro		\033[1;32m 13. Censo		\033[1;32m 19. Fake Name	\033[1;32m 25. NICpa
 \033[1;32m 2. Verificate\033[1;32m 8. Aviso O.		\033[1;32m 14. U. Vechiculo	\033[1;32m 20. Wayback Machine	\033[1;32m 26. SkypeIp
 \033[1;32m 3. RE	\033[1;32m 9. Datos Abiertos	\033[1;32m 15. Tarjeta PV	\033[1;32m 21. Who is		\033[1;32m 27. Pwned
@@ -36,7 +36,7 @@ def menu():
 \033[1;32m 5. RUC	\033[1;32m 11. ExifData		\033[1;32m 17. Licencia		\033[1;32m 23. StalkScan	\033[1;32m 29. Dojo
 \033[1;32m 6. Tinfoleak	\033[1;32m 12. SPA		\033[1;32m 18. Avatar		\033[1;32m 24. Findsubdomain	\033[1;32m 30. Exit
 
-		'''
+		"""
 	d = raw_input("\033[1;30m Doxing > ")
 
 	if d == "1":
