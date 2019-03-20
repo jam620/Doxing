@@ -2,20 +2,20 @@
 
 # MODIFICACIONES
 Se modifico el código original con información de Panamá:
-2. **Verificate:** *información electoral sobre mesas de votación*
-3. **Registro E:** *información de registro electoral*
-4. **IMEI:** *verificar estado de un celular*
-5.**RUC:** *información de la DGI*
-7. **Registro:** *registro público de Panamá*
-8. **Aviso:** *Solicitud de Panamá Emprende*
-9. **Datos Abiertos:** *datasets de diversas instituciones en Panamá*
-10. **CEPADEM:** *información para solicitud de pago de decimos atrasados*
-12. **SPA:** *información de casos del Sistema Penal Acusatorio*
-13. **Censo:** *datos estadisticos de la República de Panamá*
-14. **Ubicar Vehiculo:** *rastrear un vehiculo remolcado*
-15. **Tarjeta PV:** *Tarjeta de Propiedad Vehicular* 
-25. **NICpa:** *información de dominios .gob*
-27. **Pwned:** *información de cuentas comprometidas*
+* **Verificate:** *información electoral sobre mesas de votación*
+* **Registro E:** *información de registro electoral*
+* **IMEI:** *verificar estado de un celular*
+* **RUC:** *información de la DGI*
+* **Registro:** *registro público de Panamá*
+* **Aviso:** *Solicitud de Panamá Emprende*
+* **Datos Abiertos:** *datasets de diversas instituciones en Panamá*
+* **CEPADEM:** *información para solicitud de pago de decimos atrasados*
+* **SPA:** *información de casos del Sistema Penal Acusatorio*
+* **Censo:** *datos estadisticos de la República de Panamá*
+* **Ubicar Vehiculo:** *rastrear un vehiculo remolcado*
+* **Tarjeta PV:** *Tarjeta de Propiedad Vehicular* 
+* **NICpa:** *información de dominios .gob*
+* **Pwned:** *información de cuentas comprometidas*
 
 
 
