@@ -33,7 +33,7 @@ def menu():
 \033[1;32m 2. Verificate \033[1;32m 8. Aviso Operaciones  \033[1;32m 14. Ubicar Vechiculo    \033[1;32m 20. Wayback Machine 	\033[1;32m 26. SkypeIp
 \033[1;32m 3. Registro E \033[1;32m 9. Datos Abiertos     \033[1;32m 15. Tarjeta PV          \033[1;32m 21. Who is  	 	\033[1;32m 27. Pwned
 \033[1;32m 4. IMEI       \033[1;32m 10. Cepadem           \033[1;32m 16. Reverse IP          \033[1;32m 22. DNS 		\033[1;32m 28. Username
-\033[1;32m 5. RUC        \033[1;32m 11. ExifData          \033[1;32m 17. Licencia  	     \033[1;32m 23. StalkScan  		\033[1;32m  29. Dojo
+\033[1;32m 5. RUC        \033[1;32m 11. ExifData          \033[1;32m 17. Licencia  	     \033[1;32m 23. StalkScan  		\033[1;32m 29. Dojo
 \033[1;32m 6. Tinfoleak  \033[1;32m 12. SPA   		  \033[1;32m 18. Avatar              \033[1;32m 24. Findsubdomain  	\033[1;32m 30. Exit
 
 		'''
